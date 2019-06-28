@@ -1,0 +1,49 @@
+/* CSS files add styling rules to your content */
+
+body {
+  background-color:#4286F4;
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  color: pink;
+  text-align: right;
+  display: inline;
+  text-shadow: 2px 2px 3px #CE1B1B;
+
+
+}
+
+#aantalcoins{
+  display: inline;
+  color: #FCD3DE;
+  font-family: 'Press Start 2P', cursive;
+  border-radius: 20px;
+	background-color: #35C893;
+	width: 200px;
+	padding: 10px 20px;
+	color: white;
+  text-shadow: 2px 2px 3px #259B4C;
+
+
+}
+
+#shrimp {
+  display: inline;
+  height: 100px;
+  width: 100px;
+
+}
+
+#startscherm{
+  font-family: 'Press Start 2P', cursive;
+  margin: auto;
+  margin-top: 50px;
+  position: relative;
+  width: 300px;
+  color: #333;
+  text-align: center;
+  text-shadow: 2px 2px 3px #2943A8;
+}
